@@ -8,6 +8,7 @@ function createFirstScene() {
   makeRect(0,0,200,200, "black", 1)
   makeCircle(100, 50, 25, "#3380B5", 0.9)
   makeCircle(150,20 , 10, "white" ,1)
+  makeRect(100, 100, 30,10, "#32aa14", 1)
 }
 
 // Fill in this function so that it draws something using SVG shapes!

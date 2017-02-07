@@ -9,4 +9,8 @@
 h1 {
     text-align: center;
     font-family: 'Gochi Hand', cursive;
+    color: white; 
+}
+body{
+    background: url("https://i.ytimg.com/vi/voWpbz1De_M/maxresdefault.jpg")
 }

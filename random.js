@@ -7,13 +7,24 @@ var namespace = "http://www.w3.org/2000/svg"
 function createFirstScene() {
   makeRect(0,0,200,200, "#1B2B2F", 1)
   makeCircle(100, 50, 25, "#3380B5", 1)
-  makeCircle(150,30 , 10, "white" ,1)
+  makeCircle(150,30 , 10, "#778471" ,1)
   makeRect(85,50,20,10,"#399C0E", 1)
   makeCircle(85,55,5,"#399C0E",1 )
   makeCircle(105,55,5, "#399C0E", 1)
-  makeRect(95,35,20,10,"#399C0E")
-  makeCircle(95,40,5,"#399C0E", 1)
-  makeCircle(114,40,5,"#399C0E", 1)
+  makeRect(95,33,20,10,"#399C0E")
+  makeCircle(95,38,5,"#399C0E",1)
+  makeCircle(114,38,5,"#399C0E", 1)
+  makeRect(100,62,15,6,"#399C0E",1)
+  makeCircle(100,65,3,"#399C0E", 1)
+  makeCircle(115,65,3,"#399C0E",1)
+  makeCircle
+  makeCircle
+  makeCircle
+  makeCircle
+  makeCircle
+  makeCircle
+  makeCircle()
+  makeCircle()
 }
 
 // Fill in this function so that it draws something using SVG shapes!
@@ -23,7 +34,6 @@ function createSecondScene() {
     makeRect(0,0,200,200, "black", 1)
     makeCircle(100, 50, 25, "#e05135", 0.9)
 }
-
 // Fill in this function so that it draws something using SVG shapes!
 // You need to use at least 3 different types of shape.
 // Remember, for the shapes to show up on the canvas, you'll need to CALL the function.
